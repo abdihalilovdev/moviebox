@@ -463,11 +463,6 @@
     }
 }
 
-
-
-
-
-
 @media (max-width: 415px) {
     .container {
         width: 90%;
@@ -625,6 +620,143 @@
         padding-top: 20px;
     }
 }
+
+@media (max-width: 376px) {
+    .container {
+        width: 90%;
+    }
+
+    .header-center input {
+        width: 125px;
+        height: 26px;
+        border: 1px solid white;
+        border-radius: 6px;
+        background: transparent;
+        color: white;
+        padding: 0 20px;
+        margin-left: 180px;
+        display: none;
+
+    }
+
+    .header-right-red {
+        margin-left: -20px;
+    }
+
+    .header-right {
+
+    }
+
+    .header a {
+        display: flex;
+        align-items: center;
+        width: 210px;
+        height: 112px;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 35px;
+    }
+
+    .hero p {
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 9px;
+        font-size: 13px;
+    }
+
+    .hero h1 {
+        padding-top: 115px;
+        color: white;
+        padding-bottom: 19px;
+        font-size: 35px;
+    }
+
+    .hero-results {
+        display: flex;
+        align-items: center;
+        margin-left: 70px;
+    }
+
+    .header-right a {
+        display: flex;
+        position: relative;
+        left: 36px;
+        align-items: center;
+        justify-content: space-between;
+        width: 120px;
+        font-family: sans-serif;
+        font-weight: 700;
+        line-height: 24px;
+        color: white;
+    }
+
+    .header-left img {
+        width: 35px;
+        height: 35px;
+        margin-right: 20px;
+    }
+
+    .header-left h1 {
+        margin-left: -20px;
+    }
+
+    .featured-top h1 {
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 700;
+        font-size: 24px;
+        color: #000000;
+    }
+
+    .featured {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .sirius h1 {
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 47px;
+        color: #000000;
+    }
+
+    .hero-one h1 {
+        padding-top: 50px;
+        font-size: 20px;
+    }
+
+    .pies {
+        display: flex;
+        justify-content: center;
+        padding-bottom: 50px;
+        position: relative;
+    }
+
+    .faber {
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 107px;
+        padding-top: 15px;
+    }
+
+    .hero-one a {
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        color: #BE123C;
+        margin-left: 50px;
+    }
+
+
+}
+
+
 
 
 
