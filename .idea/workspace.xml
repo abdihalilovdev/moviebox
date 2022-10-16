@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784f910f-4c4a-446e-80ee-da7c195e93f6" name="Changes" comment="" />
+    <list default="true" id="784f910f-4c4a-446e-80ee-da7c195e93f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +47,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -100,7 +106,13 @@
       <workItem from="1663815094715" duration="384000" />
       <workItem from="1663816904575" duration="418000" />
       <workItem from="1664010853738" duration="22000" />
-      <workItem from="1664446269049" duration="1517000" />
+      <workItem from="1664446269049" duration="2372000" />
+      <workItem from="1664604494193" duration="26000" />
+      <workItem from="1665594638586" duration="63000" />
+      <workItem from="1665901507571" duration="2516000" />
+      <workItem from="1665906485055" duration="6130000" />
+      <workItem from="1665912746274" duration="3112000" />
+      <workItem from="1665918630355" duration="6404000" />
     </task>
     <servers />
   </component>

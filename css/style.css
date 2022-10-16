@@ -33,8 +33,6 @@ a {
     align-items: center;
     width: 210px;
     height: 112px;
-
-
 }
 
 .header-center input {
@@ -88,7 +86,6 @@ a {
 .header-right {
     display: flex;
     align-items: center;
-
 }
 
 .hero-results {
@@ -222,7 +219,6 @@ a {
     align-items: center;
     margin-left: 67px;
     color: black;
-
 }
 
 .imdb p {
@@ -250,7 +246,7 @@ a {
 }
 
 .featured-card:hover{
-    background: rgba(0, 0, 0, 0.23);
+    /*background: rgba(0, 0, 0, 0.23);*/
     transition: 0.7s;
 }
 
@@ -393,7 +389,6 @@ a {
     font-size: 36px;
     line-height: 47px;
     color: #000000;
-
 }
 
 
@@ -412,11 +407,6 @@ a {
 
 .ios h5 {
     padding-top: 9px;
-}
-
-.hero-one h1 {
-    padding-top: 50px;
-
 }
 
 .pies {
@@ -458,7 +448,12 @@ a {
     font-size: 18px;
     color: #BE123C;
     margin-left: 770px;
-
+}
+.scroll {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow: hidden;
 }
 
 .hero-one h1 {
@@ -472,7 +467,6 @@ padding-bottom: 55px;
     justify-content: center;
     padding: 0 107px;
     padding-top: 15px;
-
 }
 
 .faber h5{
